@@ -10,7 +10,7 @@ API Docs:
 https://shl-recommendation-system-29sw.onrender.com/docs
 
 Recommendation Endpoint:
-POST https://shl-recommendation-system-29sw.onrender.com/recommend
+POST https://shl-recommendation-system-29sw.onrender.com/recommend_assessments_recommend_post
 
 
 ### 🔹 Frontend (Streamlit)
