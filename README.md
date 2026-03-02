@@ -72,6 +72,39 @@ Metric used:
 
 ---
 
+---
+
+## Frontend Deployment
+
+Streamlit app deployed on Streamlit Cloud.
+
+Users can:
+- Enter job description
+- Get top recommended SHL assessments
+- View assessment URLs and descriptions
+
+---
+
+## Test Predictions
+
+The file `test_predictions.csv` contains predictions generated for the test dataset.
+
+---
+
+## Future Improvements
+
+- Replace TF-IDF with Sentence-BERT embeddings
+- Hybrid ranking (metadata + semantic similarity)
+- Fine-tuning using labeled dataset
+- Reranking with cross-encoder models
+- Filtering by duration constraints
+
+---
+
+## Author
+
+Varshith Reddy
+
 ## API Deployment
 
 Backend deployed on Render:
