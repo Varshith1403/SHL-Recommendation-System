@@ -14,7 +14,7 @@ POST https://shl-recommendation-system-29sw.onrender.com/recommend_assessments_r
 
 
 ### 🔹 Frontend (Streamlit)
-https://shl-recommendation-system-xxxx.streamlit.app
+https://shl-recommendation-system-6niw4fdv7ch7zcahyhuceg.streamlit.app/
 
 
 ### 🔹 GitHub Repository
