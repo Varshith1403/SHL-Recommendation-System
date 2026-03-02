@@ -8,3 +8,5 @@ faiss-cpu
 scikit-learn
 numpy
 python-multipart
+openpyxl
+streamlit
