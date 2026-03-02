@@ -1,5 +1,27 @@
 # SHL Assessment Recommendation Engine
 
+## Live Deployment Links
+
+### 🔹 Backend API (Render)
+Health Check:
+https://shl-recommendation-system-29sw.onrender.com/health
+
+API Docs:
+https://shl-recommendation-system-29sw.onrender.com/docs
+
+Recommendation Endpoint:
+POST https://shl-recommendation-system-29sw.onrender.com/recommend
+
+
+### 🔹 Frontend (Streamlit)
+https://shl-recommendation-system-xxxx.streamlit.app
+
+
+### 🔹 GitHub Repository
+https://github.com/Varshith1403/SHL-Recommendation-System
+
+---
+
 ## Overview
 
 This project implements an intelligent Assessment Recommendation Engine using SHL's product catalog.
