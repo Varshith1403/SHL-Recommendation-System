@@ -105,8 +105,6 @@ The file `test_predictions.csv` contains predictions generated for the test data
 
 Varshith Reddy
 
-## API Deployment
+varshith1403@gmail.com
 
-Backend deployed on Render:
-
-Health Endpoint:
++91 9000730369
